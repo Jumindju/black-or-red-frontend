@@ -1,0 +1,5 @@
+@use "src/utilities/variables" as var;
+
+.header {
+  background-color: var.$header-color;
+}
